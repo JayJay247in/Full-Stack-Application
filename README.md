@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/JayJay247in/-Full-Stack-Application_part1.git
+    git clone https://github.com/JayJay247in/-Full-Stack-Application.git
     cd Full-Stack-Application
     ```
 
