@@ -18,11 +18,11 @@ Before you begin, ensure you have the following installed:
 
     ```bash
     git clone https://github.com/JayJay247in/-Full-Stack-Application_part1.git
-    cd Full-Stack-Application_part1
+    cd Full-Stack-Application
     ```
 
-    Replace `https://github.com/JayJay247in/-Full-Stack-Application_part1.git` with the URL of your forked repository.
-    Replace `Full-Stack-Application_part1` with the name of the project directory.
+    Replace `https://github.com/JayJay247in/-Full-Stack-Application.git` with the URL of your forked repository.
+    Replace `Full-Stack-Application` with the name of the project directory.
 
 2.  **Create a Virtual Environment (Recommended):**
 
